@@ -9,8 +9,8 @@
 
 ## Projects
 
-- [Property Manager](projects/property-manager.md)
-- [Chirper](projects/chirper.md)
-- [Classroom Manager](projects/classroom-manager.md)
+- Property Manager
+- Chirper
+- Classroom Manager
 - [Vehicle Manager](projects/vehicle-manager.md)
-- [Coffee House](projects/coffee-house.md)
+- Coffee House
