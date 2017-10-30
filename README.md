@@ -13,4 +13,4 @@
 - Chirper
 - Classroom Manager
 - [Vehicle Manager](projects/vehicle-manager.md)
-- Coffee House
+- [Coffee House](projects/coffee-house.md)
