@@ -12,6 +12,6 @@
 
 ## Projects
 
-- ["Build your own" LMS](projects/build-your-own-lms)
+- ["Build your own" LMS](projects/build-your-own-lms.md)
 - [Vehicle Manager](projects/vehicle-manager.md)
 - [Coffee House](projects/coffee-house.md)
