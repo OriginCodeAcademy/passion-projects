@@ -110,6 +110,7 @@ Setup `mocha` and `chai` in your project, then write unit tests for every route 
 
 ### 1e. Backend Exit Criteria
 
+- Models are created and can successfully store information in a database
 - Full test coverage for your express routes
 - All tests are passing
 
